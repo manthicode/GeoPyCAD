@@ -151,7 +151,7 @@ to mandatory statutory provisions.
 For permissions not granted by this license, please contact:
 
 Marc Buechau
-testusterror@gmail.com
+manthicode@gmail.com
 
 
 Copyright © 2026 Marc Buechau
