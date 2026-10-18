@@ -1,4 +1,4 @@
-![logo.png](https://github.com/testusterror/GeoPyCAD/blob/main/logo.png)
+![logo.png](https://github.com/manthicode/GeoPyCAD/blob/main/logo.png)
 
 # GeoPyCAD
 
@@ -111,7 +111,7 @@ Proprietary Software License.
 
 ## Copyright
 
-Copyright © 2026 Marc Buechau
+Copyright © 2026 Marc Buechau  (aka. manthicode)
 
 All rights reserved.
 
@@ -143,4 +143,4 @@ required.
 
 For licensing, permission requests or other inquiries:
 
-testusterror@gmail.com
+manthicode@gmail.com
