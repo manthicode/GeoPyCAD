@@ -95,3 +95,43 @@ This roadmap contains planned features, improvements and future development goal
 ## Notes
 
 Priorities are not strict release dates. Features may be implemented in a different order depending on development requirements, dependencies and current development focus.
+
+
+___
+
+# Änderungsnachweise [DE]
+___
+
+Änderungseinfluss auf die Versionsnummer:  
+
+-.+.-   : Punktkonstruktion + Linienkonstruktion  
+-.+.-   : Linienkatalog / Datenbank erzeugt  
+-.-.+   : 
+
+___
+### Versionsnummer  
+
+1.2.13  - Design Standard + custom  
+1.2.12  - Sprachen integriert (über eigene Übersetzungsdateien)  
+1.2.11  - Gafik-Tab, Plot-Tabs mit Ploteinstellungen  
+1.2.10  - Menüreiter in App.py erweitert  
+1.2.9   - Konstruktion(Placeholder), Messen (funktionsfähig)  
+1.1.9   - Pluginsupport  
+
+1.0.9   - Benutzerhandbuch  
+1.0.8   - Fehlerbehebung  
+1.0.7   - Fehlerbehebung  
+1.0.6   - Fehlerbehebung  
+1.0.5   - 3D/2D Switch Ansicht, HUD in 3D  
+1.0.4   - Hintergrundparameter (Rechenparameter)  
+1.0.3   - Fehlerbehebung  
+1.0.2   - DXF: Kreise  
+1.0.1   - DXF: Textgrößen richtig wie in DXF  
+1.0     - Originshift entdeckt und somit den Pfad gelegt für eine gute Darstellung und   
+
+0.9     - stablile App draus gemacht  
+0.6-0.8 - Fehlerbehebung  
+0.5     - DXF Darstellung annähernd nachvorllziehbar  
+0.2-0.4 - Fehlerbehebung  
+0.1     - funktionierender DXF import - (reiner DXF-Viewer)  
+  
